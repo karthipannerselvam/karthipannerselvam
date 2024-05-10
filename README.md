@@ -1,15 +1,15 @@
 ![Banner Image](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Karthi Pannerselvam</h1>
-<h3 align="center">I am Karthi, currently pursuing my Bachelor's in Computer Science Engineering, with a passion for web development and UI/UX design. My journey in the realm of technology has been fueled by a desire to create seamless digital experiences and innovative solutions.</h3>
+<h3 align="center">I am Karthi, currently pursuing my Bachelor's in Computer Science Engineering, with a passion for Data Analysis and Web Development. My journey in the realm of technology has been fueled by a desire to create seamless digital experiences and innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthipannerselvam&label=Profile%20views&color=0e75b6&style=flat" alt="karthipannerselvam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@karthi_981" target="blank"><img src="https://img.shields.io/twitter/follow/@karthi_981?logo=twitter&style=for-the-badge" alt="@karthi_981" /></a> </p>
 
-- 🔭 I’m currently working on **real time front-end projects**
+- 🔭 I’m currently working on **Data analysis and real time front-end projects**
 
-- 🌱 I’m currently learning **Django and React frameworks**
+- 🌱 I’m currently learning **Advance SQL and PowerBI**
 
 - 📫 How to reach me **karthipannerelvam173@gmail.com**
 
